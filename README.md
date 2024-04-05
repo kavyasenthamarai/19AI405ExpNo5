@@ -1,8 +1,8 @@
 ## Ex-No-05--Implement Simple Hill Climbing Algorithm
 
-### Name: Kadin Samson L
+### Name: KAVYA K
 
-### Register Number: 212221230044
+### Register Number: 212222230065
 
 ### Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
